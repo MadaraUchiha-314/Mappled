@@ -1,2 +1,2 @@
 # Mappled
-An automatic file downloader for Moodle.
+An automatic course content downloader for [Moodle](https://moodle.org/).
